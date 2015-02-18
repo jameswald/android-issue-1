@@ -1,10 +1,10 @@
 package com.example.jameswald.android_issue_1.lib;
 
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.app.Activity;
 import android.widget.TextView;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
